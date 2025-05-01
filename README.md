@@ -33,7 +33,7 @@ Most of my development work has been done under **Non-Disclosure Agreements (NDA
 ➡️ If you'd like to know more about my experience or need references.
 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-jahanzaib-b84a36201/)
-[![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium)](https://medium.com/@muhammadjahanzaib_1449w)
+[![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium)](https://medium.com/@muhammadjahanzaib_1449)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-007ACC?style=flat&logo=windows-terminal)](https://excellium.online/)
 
 ---
